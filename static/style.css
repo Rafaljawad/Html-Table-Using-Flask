@@ -1,0 +1,15 @@
+.container{
+    width: 50%;
+    margin-top: 50px;
+}
+
+
+thead{
+    background-color: rgb(59, 58, 58);
+}
+table{
+    background-color: #fff;
+}
+thead tr{
+    color: rgb(221, 221, 101);
+}
